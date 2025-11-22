@@ -1,5 +1,7 @@
 # VertigoGames Case 1
 
+https://jupyter.org/try-jupyter/notebooks/index.html?path=notebooks%2FVertigoCase1.ipynb
+
 ## Kullanılan Araçlar ve Mantık
 
 1.  **Python** dilinde, **Jupyter Notebook** ortamında gerçekleştirilmiştir.
